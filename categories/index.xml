@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on University of Michigan PhD Program in Physiology</title>
-    <link>https://umphysiology.org/categories/</link>
+    <link>http://UMPhysiology.org/categories/</link>
     <description>Recent content in Categories on University of Michigan PhD Program in Physiology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 Designed by **[Santiago Schnell](http://www.med.umich.edu/schnell-lab/index.html)** modifying **[Meghna Hugo](https://themes.gohugo.io/meghna-hugo/)** by **[Themefisher](https://themefisher.com)**</copyright>
     
-	<atom:link href="https://umphysiology.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://UMPhysiology.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
