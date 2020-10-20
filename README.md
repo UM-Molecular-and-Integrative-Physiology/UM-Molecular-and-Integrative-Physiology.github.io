@@ -1,6 +1,6 @@
 # UM-Molecular-and-Integrative-Physiology.github.io
 
-This website is actgive on https://UMPhysiology.org.  The page was developed by 
+This website is active on https://UMPhysiology.org.  The page was developed by 
 modifying [Meghna Hugo](https://themes.gohugo.io/meghna-hugo/) by 
 [Themefisher](https://themefisher.com).
 
