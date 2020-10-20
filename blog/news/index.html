@@ -293,6 +293,26 @@
 <script src="https://umphysiology.org/js/script.min.882f95f2ea1a162fe7cb4bbb2ebc13a32b588315fc6a9b9f41e8b9b2945ee6b50c0007105cec0ef8810e2ee7094e90ce.js" integrity="sha384-iC&#43;V8uoaFi/ny0u7LrwToytYgxX8apufQei5spRe5rUMAAcQXOwO&#43;IEOLucJTpDO"></script>
 
 
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<div id="js-cookie-box" class="cookie-box cookie-box-hide">
+	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-transparent">I Accept</span>
+</div>
+<script>
+	(function ($) {
+		const cookieBox = document.getElementById('js-cookie-box');
+		const cookieButton = document.getElementById('js-cookie-button');
+		if (!Cookies.get('cookie-box')) {
+			cookieBox.classList.remove('cookie-box-hide');
+			cookieButton.onclick = function () {
+				Cookies.set('cookie-box', true, {
+					expires:  7 
+				});
+				cookieBox.classList.add('cookie-box-hide');
+			};
+		}
+	})(jQuery);
+</script>
 </body>
 
 </html>
