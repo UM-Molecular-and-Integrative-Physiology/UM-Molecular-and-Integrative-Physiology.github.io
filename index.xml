@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>University of Michigan PhD Program in Physiology</title>
-    <link>http://UMPhysiology.org/</link>
+    <link>https://umphysiology.org/</link>
     <description>Recent content on University of Michigan PhD Program in Physiology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 Designed by **[Santiago Schnell](http://www.med.umich.edu/schnell-lab/index.html)** modifying **[Meghna Hugo](https://themes.gohugo.io/meghna-hugo/)** by **[Themefisher](https://themefisher.com)**</copyright>
     <lastBuildDate>Mon, 19 Oct 2020 14:51:12 +0600</lastBuildDate>
     
-	<atom:link href="http://UMPhysiology.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://umphysiology.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Life in Ann Arbor</title>
-      <link>http://UMPhysiology.org/blog/ann-arbor/</link>
+      <link>https://umphysiology.org/blog/ann-arbor/</link>
       <pubDate>Mon, 19 Oct 2020 14:51:12 +0600</pubDate>
       
-      <guid>http://UMPhysiology.org/blog/ann-arbor/</guid>
+      <guid>https://umphysiology.org/blog/ann-arbor/</guid>
       <description>The City of Ann Arbor is home to the University of Michigan — one of the finest universities in the world and premier medical schools in the country.</description>
     </item>
     
     <item>
       <title>Physiology Matters</title>
-      <link>http://UMPhysiology.org/blog/newsletter/</link>
+      <link>https://umphysiology.org/blog/newsletter/</link>
       <pubDate>Sun, 18 Oct 2020 12:52:36 +0600</pubDate>
       
-      <guid>http://UMPhysiology.org/blog/newsletter/</guid>
+      <guid>https://umphysiology.org/blog/newsletter/</guid>
       <description>Our department newsletter, Physiology Matters, gives you a look at the extrarodinary activities carried out by our depatment members.</description>
     </item>
     
     <item>
       <title>Latest News</title>
-      <link>http://UMPhysiology.org/blog/news/</link>
+      <link>https://umphysiology.org/blog/news/</link>
       <pubDate>Sat, 17 Oct 2020 12:52:36 +0600</pubDate>
       
-      <guid>http://UMPhysiology.org/blog/news/</guid>
+      <guid>https://umphysiology.org/blog/news/</guid>
       <description>Our department members study fundamental questions in the biomedical sciences. They pursue excellence in all aspects of research, teaching and scientific service.</description>
     </item>
     
     <item>
       <title>John Doe</title>
-      <link>http://UMPhysiology.org/author/john-doe/</link>
+      <link>https://umphysiology.org/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://UMPhysiology.org/author/john-doe/</guid>
+      <guid>https://umphysiology.org/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
     </item>
     
     <item>
       <title>Mark Dinn</title>
-      <link>http://UMPhysiology.org/author/mark-dinn/</link>
+      <link>https://umphysiology.org/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://UMPhysiology.org/author/mark-dinn/</guid>
+      <guid>https://umphysiology.org/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
     </item>
     
